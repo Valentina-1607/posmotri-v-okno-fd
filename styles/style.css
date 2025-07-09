@@ -136,8 +136,8 @@ ol {
 .content__video-card-thumbnail {
   min-width: 194px;
   height: 103px;
-  object-fit: contain;
-  object-position: cover;
+  object-fit: cover;
+  object-position: center;
 }
 
 .content__video-card-description-container {
